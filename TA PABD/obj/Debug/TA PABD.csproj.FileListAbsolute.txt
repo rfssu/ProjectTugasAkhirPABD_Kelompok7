@@ -1,0 +1,36 @@
+C:\Users\fiezi\source\repos\TA PABD\bin\Debug\TA PABD.exe.config
+C:\Users\fiezi\source\repos\TA PABD\bin\Debug\TA PABD.exe
+C:\Users\fiezi\source\repos\TA PABD\bin\Debug\TA PABD.pdb
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA PABD.csprojAssemblyReference.cache
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form1.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Properties.Resources.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA PABD.csproj.GenerateResource.cache
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA PABD.csproj.CoreCompileInputs.cache
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA PABD.exe
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA PABD.pdb
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form2.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form3.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form4.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form5.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form6.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form7.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form8.resources
+C:\Users\fiezi\source\repos\TA PABD\obj\Debug\TA_PABD.Form9.resources
+D:\Tugas Kampus S4\PABD\TA PABD\bin\Debug\TA PABD.exe.config
+D:\Tugas Kampus S4\PABD\TA PABD\bin\Debug\TA PABD.exe
+D:\Tugas Kampus S4\PABD\TA PABD\bin\Debug\TA PABD.pdb
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA PABD.csproj.AssemblyReference.cache
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form1.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form2.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form3.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form4.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form5.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form6.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form7.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form8.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Form9.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA_PABD.Properties.Resources.resources
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA PABD.csproj.GenerateResource.cache
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA PABD.csproj.CoreCompileInputs.cache
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA PABD.exe
+D:\Tugas Kampus S4\PABD\TA PABD\obj\Debug\TA PABD.pdb
